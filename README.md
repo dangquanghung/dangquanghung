@@ -20,8 +20,8 @@ Data Engineer focused on building reliable batch pipelines and analytical data m
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/<your-handle>
-- Email: <your-email>
+- LinkedIn: https://www.linkedin.com/in/quanghungdang
+- Email: dangqhung149@gmail.com
 
 > All projects use mock or public data only.
 
